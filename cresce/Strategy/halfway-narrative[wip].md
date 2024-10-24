@@ -1,6 +1,6 @@
 # From Savings Agent to Family Financial Ally: The Evolution of Tutto a Posto to become CRESCE
 
-
+## Demographic
 
 ### I From Broad Savings to Focused Finance: Our Journey
 
@@ -24,5 +24,8 @@ These conversations revealed three critical insights that changed our direction:
 
 3. The tools they need don't exist in an integrated way
 
-This wasn't just about cutting costs anymore. We were watching parents attempt to solve a much bigger challenge: how to manage family finances across generations, from immediate savings to long-term wealth building.
-[] 
+This wasn't just about cutting costs anymore. We found out that this demographic NEEDS to save, but also wants better financial solutions. They are attempting to solve a much bigger challenge: how to manage family finances across generations, from immediate savings to long-term wealth building.
+ 
+### The Parent Opportunity: A Demographic at an Inflection Point
+
+Millenial Parents represent a unique combination of financial capacity, digital nativity and life stage needs. Also they are the first generation that will feel the collapse of the social state:w
